@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pieces">
+        <item>King</item>
+        <item>Queen</item>
+        <item>Bishop</item>
+        <item>Knight</item>
+        <item>Rook</item>
+        <item>Pawn</item>
+        <item>Setting up the ChessBoard</item>
+       <item>How to WIN!</item>
+        <item>Can game result in DRAW?</item>
+        <item>About Developer</item>
+    </string-array>
+
+    <string-array name="descriptions">
+    <item>The king moves exactly one vacant square in any direction: forwards, backwards, left, right, or diagonally. It can also castle in conjunction with a rook.</item>
+    <item>The queen moves any number of vacant squares in any direction: forwards, backwards, left, right, or diagonally, in a straight line.</item>
+    <item>The bishop moves any number of vacant squares diagonally in a straight line. Consequently, a bishop stays on squares of the same color throughout a game. The two bishops each player starts with move on squares of opposite colors.</item>
+    <item>The knight moves on an extended diagonal from one corner of any 2×3 rectangle of squares to the furthest opposite corner. Consequently, the knight alternates its square color each time it moves. The knight is the only piece that jumps over any intervening piece(s) when moving (castling being the only special instance in which pieces jump over one another).</item>
+    <item>The rook moves any number of vacant squares forwards, backwards, left, or right in a straight line. It also takes part, along with the king, in a special move called castling.</item>
+        <item>The pawn moves forward exactly one space, or optionally, two spaces when on its starting square, toward the opponent\'s side of the board. When there is an enemy piece one square diagonally ahead of the pawn, either left or right, then the pawn may capture that piece. A pawn can perform a special type of capture of an enemy pawn called en passant. If the pawn reaches a square on the back rank of the opponent, it promotes to the player\'s choice of a queen, rook, bishop, or knight.</item>
+        <item>Before Starting the game, ensure that each player has a light-colored square in the bottom right-hand corner. Place your rooks on the bottom-left and bottom-right squares, and then place the knights on the first row directly adjacent to the rooks. The bishops take the next two squares toward the center of the back row. Leave two empty squares in the middle of your back row — these two squares belong to the king and queen. Place these pieces using the queen-on-color rule, where the white queen goes on the light square, while the black queen goes on its dark square. The king takes the other square. Set up all of your pawns on the second row, right in front of your larger pieces. </item>
+        <item>When a player\'s king is under attack and threatened with capture, you say that the king is in check. When in check, that player must take action to avoid having his king captured by moving the king, capturing the attacking piece, or – except in the case of a knight check – blocking the attack.
+
+            You win the game via checkmate, where you attack your opponent\'s king in such a way that he cannot avoid being captured. To win the game, the victorious player doesn\'t actually capture the enemy king; once capture is inevitable, checkmate has occurred and the game is over. A player who knows defeat is inevitable may also resign the game rather than wait to be checkmated.
+        </item>
+        <item>The game can end in a draw, where there is no winner. The most common way to draw a game is by stalemate. Other draws include threefold repetition with the same position occurring three times with the same player to move and the 50-move rule, where no pawn has been moved and no piece has been captured for 50 consecutive moves by each player.</item>
+        <item>Hi! I am Aditya Sharma, and I made this fun app so that more and more people can learn about chess. I recommend you to use this application in both landscape and potrait mode as both will porvide you a different experience altogether.I have also used fragments in this application.
+        </item>
+    </string-array>
+
+</resources>

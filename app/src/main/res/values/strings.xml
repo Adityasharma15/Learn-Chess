@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learn Chess</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_learn_chess_application_try_it_with_both_potrait_and_landscape_mode">Welcome to Learn Chess Application! Try it with both potrait and landscape mode.</string>
+</resources>
